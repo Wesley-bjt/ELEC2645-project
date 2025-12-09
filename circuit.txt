@@ -1,0 +1,4 @@
+The value of three elements(U, I, R) in
+U: -1.000000V
+I: 1.000000A
+R: 1.000000Ohm
