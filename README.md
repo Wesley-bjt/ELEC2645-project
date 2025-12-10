@@ -27,6 +27,7 @@ circuit.c
 circuit.h
 
 Run code:
+You can build the code as we have been using in the labs with
 gcc main.c converter.c circuit.c -o main.out -lm
 (the -lm is required to link the math library).
 You can also use make -B to force a rebuild using the provided Makefile.
